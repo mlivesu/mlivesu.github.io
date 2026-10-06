@@ -1,0 +1,9 @@
+@article{PCSCBGLSRL22,
+  title   = {Hex-Mesh Generation and Processing: a Survey},
+  author  = {Pietroni, Nico and Campen, Marcel and Sheffer, Alla and Cherchi, Gianmarco and Bommes, David and Gao, Xifeng and Scateni, Riccardo and Ledoux, Franck and Remacle, Jean-Fran\c{c}oise and Livesu, Marco},
+  journal = {ACM Transactions on Graphics},
+  volume  = {42},
+  issue   = {2},
+  pages   = {1-44},
+  year    = {2023},
+  DOI     = {10.1145/3554920}}

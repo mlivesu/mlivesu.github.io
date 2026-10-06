@@ -1,0 +1,8 @@
+@inproceedings{Liv22,
+  author    = {Livesu, Marco},
+  booktitle = {Smart Tools and Applications in Graphics (STAG)},
+  title     = {{Topological Initialization of Injective Integer Grid Maps}},
+  year      = {2022},
+  publisher = {The Eurographics Association},
+  ISBN      = {978-3-03868-191-5},
+  DOI       = {10.2312/stag.20221254}}

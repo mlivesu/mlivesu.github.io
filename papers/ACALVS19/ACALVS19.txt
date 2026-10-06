@@ -1,0 +1,10 @@
+@article{ACALVS19,
+  author    = {Ara\'{u}jo, Chrystiano and Cabiddu, Daniela and Attene, Marco and Livesu, Marco and
+               Vining, Nicholas and Sheffer, Alla},
+  title     = {Surface2Volume: Surface Segmentation Conforming Assemblable Volumetric Partition},
+  journal   = {ACM Transaction on Graphics},
+  year      = {2019},
+  volume    = {38},
+  number    = {4},
+  doi       = {https://doi.org/10.1145/3306346.3323004}
+}

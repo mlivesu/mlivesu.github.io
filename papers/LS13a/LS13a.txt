@@ -1,0 +1,11 @@
+@article{LS13a,
+  author  = {Livesu, Marco and Scateni, Riccardo},
+  title   = {Extracting Curve-Skeletons from Digital Shapes Using Occluding Contours},
+  journal = {The Visual Computer},
+  year    = {2013},
+  volume  = {29},
+  number  = {9},
+  pages   = {907--916},
+  issn    = {1432-2315},
+  doi     = {10.1007/s00371-013-0855-8}}
+

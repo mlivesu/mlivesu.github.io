@@ -1,0 +1,10 @@
+@article{TCAABLMMS20,
+  author    = {Tamellini, Lorenzo and Chiumenti, Michele and Altenhofen, Christian and Attene, Marco and Barrowclough, Oliver and Livesu, Marco and Marini, Federico and Martinelli, Massimiliano and Skytt, Vibeke},
+  title     = {Parametric Shape Optimization for Combined Additive--Subtractive Manufacturing},
+  journal   = {JOM},
+  year      = {2020},
+  volume    = {72},
+  number    = {1},
+  issn      = {1543-1851},
+  pages     = {448--457},
+  doi       = {https://doi.org/10.1007/s11837-019-03886-x}

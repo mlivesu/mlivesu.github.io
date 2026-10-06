@@ -1,0 +1,9 @@
+@article{BTPLC18,
+  title   = {HexaLab.net: an Online Viewer for Hexahedral Meshes},
+  author  = {Bracci, Matteo and Tarini, Marco and Pietroni, Nico and Livesu, Marco and Cignoni, Paolo},
+  journal = {Computer-Aided Design},
+  year    = {2019},
+  volume  = {110},
+  note    = {Bracci and Tarini joint first authors},
+  ISSN    = {0010-4485},
+  DOI     = {10.1016/j.cad.2018.12.003}}

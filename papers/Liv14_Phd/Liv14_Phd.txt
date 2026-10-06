@@ -1,0 +1,5 @@
+@PhdThesis{Liv14_Phd,
+  author = {Livesu, Marco},
+  title  = {Understanding the Structure of 3D Shapes : PolyCubes and Curve-Skeletons},
+  school = {PhD School of Mathematics and Computer Science, University of Cagliari (Italy)},
+  year   = {2014}}

@@ -1,0 +1,9 @@
+@article{MLP18_extended,
+  author    = {Mancinelli, Claudio and Livesu, Marco and Puppo, Enrico},
+  title     = {A Comparison of Methods for Gradient Field Estimation on Simplicial Meshes},
+  journal   = {Computers \& Graphics},
+  year      = {2019},
+  volume    = {80},
+  pages     = {37 - 50},
+  issn      = {0097-8493},
+  doi       = {10.1016/j.cag.2019.03.005}}

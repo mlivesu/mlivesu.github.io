@@ -1,0 +1,8 @@
+@inproceedings{MCSL24,
+  author    = {Meloni, Federico and Cherchi, Gianmarco and Scateni, Riccardo and Livesu, Marco},
+  booktitle = {Smart Tools and Applications in Graphics (STAG)},
+  title     = {To What Extent Are Existing Volume Mapping Algorithms Practically Useful?},
+  year      = {2024},
+  publisher = {The Eurographics Association},
+  ISBN      = {978-3-03868-265-3}
+  DOI       = {10.2312/stag.20241346}}

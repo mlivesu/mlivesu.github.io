@@ -1,0 +1,8 @@
+@inproceedings{Liv20b,
+  author    = {Livesu, Marco},
+  booktitle = {Smart Tools and Applications in Graphics (STAG)},
+  title     = {{A Mesh Generation Perspective on Robust Mappings}},
+  year      = {2020},
+  publisher = {The Eurographics Association},
+  ISBN      = {978-3-03868-124-3},
+  DOI       = {10.2312/stag.20201234}}

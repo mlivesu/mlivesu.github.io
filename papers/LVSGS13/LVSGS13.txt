@@ -1,0 +1,8 @@
+@article{LVSGS13,
+  author    = {Livesu, Marco and Vining, Nicholas and Sheffer, Alla and Gregson, James and Scateni, Riccardo},
+  title     = {PolyCut: Monotone Graph-Cuts for PolyCube Base-Complex Construction},
+  journal   = {ACM Transactions on Graphics (Proc. SIGGRAPH ASIA 2013)},
+  year      = {2013},
+  volume    = {32},
+  number    = {6},
+  doi       = {10.1145/2508363.2508388}}

@@ -1,0 +1,10 @@
+@article{CLS16,
+  title   = {Polycube Simplification for Coarse Layouts of Surfaces and Volumes},
+  author  = {Cherchi, Gianmarco and Livesu, Marco and Scateni, Riccardo},
+  journal = {Computer Graphics Forum},
+  volume  = {35},
+  number  = {5},
+  pages   = {11--20},
+  year    = {2016},
+  ISSN    = {1467-8659},
+  DOI     = {10.1111/cgf.12959}}

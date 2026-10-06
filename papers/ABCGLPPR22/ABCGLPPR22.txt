@@ -1,0 +1,8 @@
+@inproceedings{ABCGLPPR22,
+  author    = {Attene, Marco and Berti, Tiziano and Cabiddu, Daniela and Garosi, Antonio and Livesu, Marco and Pasztor, Zsolt and Petrovszki, Daniel and Ranieri, Andrea},
+  booktitle = {Smart Tools and Applications in Graphics (STAG)},
+  title     = {{ProMED: Production Optimization for Additive Manufacturing of Medical Devices}},
+  year      = {2022},
+  publisher = {The Eurographics Association},
+  ISBN      = {978-3-03868-191-5},
+  DOI       = {10.2312/stag.20221266}}

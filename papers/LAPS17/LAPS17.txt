@@ -1,0 +1,11 @@
+@article{LAPS17,
+  title   = {Explicit Cylindrical Maps for General Tubular Shapes},
+  author  = {Marco Livesu and Marco Attene and Giuseppe Patan\’{e} and Michela Spagnuolo},
+  journal = {Computer-Aided Design},
+  volume  = {90},
+  number  = {},
+  pages   = {27 - 36},
+  year    = {2017},
+  note    = {SI:SPM2017},
+  ISSN    = {0010-4485},
+  DOI     = {http://dx.doi.org/10.1016/j.cad.2017.05.002}}

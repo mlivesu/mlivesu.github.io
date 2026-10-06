@@ -1,0 +1,8 @@
+@article{LSVT15,
+  author    = {Livesu, Marco and Sheffer, Alla and Vining, Nicholas and  Tarini, Marco},
+  title     = {Practical Hex-Mesh Optimization via Edge-Cone Rectification},
+  journal   = {ACM Transactions on Graphics (Proc. SIGGRAPH 2015)},
+  year      = {2015},
+  volume    = {34},
+  number    = {4},
+  doi       = {10.1145/2766905}}

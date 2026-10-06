@@ -1,0 +1,10 @@
+@article{ULPTS15,
+ author    = {Usai, Francesco and Livesu, Marco and Puppo, Enrico and Tarini, Marco and Scateni, Riccardo},
+ title     = {Extraction of the Quad Layout of a Triangle Mesh Guided by Its Curve Skeleton},
+ journal   = {ACM Transactions on Graphics},
+ volume    = {35},
+ number    = {1},
+ year      = {2015},
+ pages     = {6:1--6:13},
+ issn      = {0730-0301},
+ doi       = {10.1145/2809785}} 

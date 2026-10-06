@@ -1,0 +1,8 @@
+@inproceedings{GLS10,
+  title     = {Tools and Applications for Teaching and Research in Computer Graphics},
+  author    = {Guggeri, Fabio and Livesu, Marco and Scateni, Riccardo},
+  booktitle = {Eurographics Italian Chapter Conference 2010},
+  year      = {2010},
+  publisher = {The Eurographics Association},
+  ISBN      = {978-3-905673-80-7},
+  DOI       = {10.2312/LocalChapterEvents/ItalChap/ItalianChapConf2010/147-152}}

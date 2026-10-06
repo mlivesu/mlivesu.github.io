@@ -1,0 +1,9 @@
+@article{Liv20,
+  title   = {Scalable Mesh Refinement for Canonical Polygonal Schemas of Extremely High Genus Shapes},
+  author  = {Livesu, Marco},
+  journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+  year    = {2021},
+  volume  = {27},
+  number  = {1},
+  pages   = {254-260},
+  doi     = {10.1109/TVCG.2020.3010736}}

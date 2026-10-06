@@ -1,0 +1,9 @@
+@article{CLMASBP19,
+  author    = {Casti, Sara and Livesu, Marco and Mellado, Nicolas and Abu Rumman, Nadine and Scateni, Riccardo and Barthe, Lo{\"\i}c and Puppo, Enrico},
+  title     = {Skeleton Based Cage Generation Guided by Harmonic Fields},
+  journal   = {Computers \& Graphics},
+  year      = {2019},
+  volume    = {81},
+  pages     = {140-151},
+  issn      = {0097-8493},
+  doi       = {10.1016/j.cag.2019.04.004}}

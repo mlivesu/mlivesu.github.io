@@ -1,0 +1,9 @@
+@article{Liv17_extended,
+  author    = {Livesu, Marco},
+  title     = {A Heat Flow Relaxation Scheme for n Dimensional Discrete Hyper Surfaces},
+  journal   = {Computers \& Graphics},
+  year      = {2018},
+  volume    = {71},
+  pages     = {124 - 131},
+  issn      = {0097-8493},
+  doi       = {10.1016/j.cag.2018.01.004}}

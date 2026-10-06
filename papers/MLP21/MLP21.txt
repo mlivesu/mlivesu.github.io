@@ -1,0 +1,9 @@
+@article{MLP21,
+  title   = {Practical Computation of the Cut Locus on Discrete Surfaces},
+  author  = {Mancinelli, Claudio and Livesu, Marco and Puppo, Enrico},
+  journal = {Computer Graphics Forum},
+  volume  = {40},
+  number  = {5},
+  pages   = {261--273},
+  year    = {2021},
+  DOI     = {10.1111/cgf.14372}}

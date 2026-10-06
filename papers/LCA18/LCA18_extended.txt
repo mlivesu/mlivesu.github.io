@@ -1,0 +1,9 @@
+@article{LCA18_extended,
+  author    = {Livesu, Marco and Cabiddu, Daniela and Attene, Marco},
+  title     = {slice2mesh: a Meshing Tool for the Simulation of Additive Manufacturing Processes},
+  journal   = {Computers \& Graphics},
+  year      = {2019},
+  volume    = {80},
+  pages     = {73 - 84},
+  issn      = {0097-8493},
+  doi       = {10.1016/j.cag.2019.03.004}}

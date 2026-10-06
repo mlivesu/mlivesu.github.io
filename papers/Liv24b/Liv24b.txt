@@ -1,0 +1,8 @@
+@article{Liv24b,
+  author    = {Livesu, Marco},
+  title     = {Stripe Embedding: Efficient Maps with Exact Numeric Computation},
+  journal   = {ACM Transactions on Graphics (TOG)},
+  volume    = {43},
+  number    = {6},
+  year      = {2024},
+  doi       = {10.1145/3687915}}

@@ -1,0 +1,9 @@
+@inproceedings{MLP18,
+  author    = {Mancinelli, Claudio and Livesu, Marco and Puppo, Enrico},
+  booktitle = {Smart Tools and Applications in Graphics (STAG)},
+  title     = {{Gradient Field Estimation on Triangle Meshes}},
+  year      = {2018},
+  publisher = {The Eurographics Association},
+  ISSN      = {2617-4855},
+  ISBN      = {978-3-03868-075-8},
+  DOI       = {10.2312/stag.20181301}}

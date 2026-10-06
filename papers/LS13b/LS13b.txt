@@ -1,0 +1,9 @@
+@article{LS13b,
+  title     = {Rigid Registration of Different Poses of Animated Shapes},
+  author    = {Livesu, Marco and Scatenni, Ricardo},
+  year      = {2013},
+  journal   = {Journal of {WSCG}},
+  volume    = {21},
+  number    = {1},
+  pages     = {1--9},
+  publisher = {V{\'a}clav Skala-Union Agency}}

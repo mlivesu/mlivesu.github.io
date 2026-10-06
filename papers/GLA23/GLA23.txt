@@ -1,0 +1,9 @@
+@article{Liv23,
+  author    = {Gunpinar, Erkan and Livesu, Marco and Attene, Marco},
+  title     = {Exploration of 3D motorcycle complexes from hexahedral meshes},
+  journal   = {Computers \& Graphics},
+  year      = {2023},
+  volume    = {114},
+  pages     = {105-115},
+  issn      = {0097-8493},
+  doi       = {10.1016/j.cag.2023.06.005}}

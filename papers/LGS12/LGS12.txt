@@ -1,0 +1,10 @@
+@article{LGS12,
+  title     = {Reconstructing the Curve-Skeletons of 3D Shapes Using the Visual Hull},
+  author    = {Livesu, Marco and Guggeri, Fabio and Scateni, Riccardo},
+  journal   = {IEEE Transactions on Visualization and Computer Graphics},
+  volume    = {18},
+  number    = {11},
+  pages     = {1891--1901},
+  year      = {2012},
+  doi       = {10.1109/TVCG.2012.71},
+  ISSN      = {1077-2626}}

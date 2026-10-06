@@ -1,0 +1,10 @@
+@article{LEMLA17,
+  title   = {From 3D models to 3D prints: an overview of the processing pipeline},
+  author  = {Livesu, Marco and Ellero, Stefano and Mart\'{\i}nez, Jon\`{a}s and Sylvain, Lefebvre and Attene, Marco},
+  journal = {Computer Graphics Forum},
+  volume  = {36},
+  number  = {2},
+  pages   = {537--564},
+  year    = {2017},
+  ISSN    = {1467-8659},
+  DOI     = {10.1111/cgf.13147}}

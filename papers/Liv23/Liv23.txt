@@ -1,0 +1,9 @@
+@article{Liv23,
+  author    = {Livesu, Marco},
+  title     = {Towards a Robust and Portable Pipeline for Quad Meshing: Topological Initialization of Injective Integer Grid Maps},
+  journal   = {Computers \& Graphics},
+  year      = {2023},
+  volume    = {112},
+  pages     = {50-59},
+  issn      = {0097-8493},
+  doi       = {10.1016/j.cag.2023.03.005}}

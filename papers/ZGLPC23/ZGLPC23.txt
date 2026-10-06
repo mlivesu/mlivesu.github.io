@@ -1,0 +1,8 @@
+@article{ZGLPC23,
+  title   = {HexBox: Interactive Box Modeling of Hexahedral Meshes},
+  author  = {Zoccheddu, Francesco and Gobbetti, Enrico and Livesu, Marco and Pietroni, Nico and  Cherchi, Gianmarco},
+  journal = {Computer Graphics Forum},
+  volume  = {42},
+  number  = {5},
+  year    = {2023},
+  DOI     = {10.1111/cgf.14899}}

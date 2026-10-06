@@ -1,0 +1,8 @@
+@article{LPC21,
+  title   = {Optimal Dual Schemes for Adaptive Grid Based Hexmeshing},
+  author  = {Livesu, Marco and Pitzalis, Luca and Cherchi, Gianmarco},
+  journal = {ACM Transactions on Graphics},
+  volume  = {41}, 
+  number  = {2},  
+  year    = {2022},
+  DOI     = {10.1145/3494456}}

@@ -1,0 +1,8 @@
+@article{PLCGS21,
+  title   = {Generalized Adaptive Refinement for Grid-based Hexahedral Meshing},
+  author  = {Pitzalis, Luca and Livesu, Marco and Cherchi, Gianmarco and Gobbetti, Enrico and Scateni, Riccardo},
+  journal = {ACM Transactions on Graphics (SIGGRAPH Asia)},
+  volume  = {40},
+  number  = {6},
+  year    = {2021},
+  DOI     = {10.1145/3478513.3480508}}

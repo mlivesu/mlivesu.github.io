@@ -1,0 +1,7 @@
+@inproceedings{LS15,
+  author    = {Marco Livesu and Riccardo Scateni},
+  title     = {Practical Medial Axis Filtering for Occlusion-Aware Contours},
+  booktitle = {Smart Tools and Applications in Graphics (STAG)},
+  pages     = {149--154},
+  year      = {2015},
+  doi       = {10.2312/stag.20151302}}

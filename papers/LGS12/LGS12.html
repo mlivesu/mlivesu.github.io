@@ -1,0 +1,134 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>3D-from-2D Curve-Skeleton Extraction</title>
+    <link rel="stylesheet" href="../../screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="../../print.css" type="text/css" media="print">
+    <style>
+        body{
+            font-family: Helvetica, Arial;
+            font-size: 13px;
+        }
+        body.container{
+            width: 800px;
+        }
+    </style>
+</head>
+
+<body class="container">
+    <div class="span-18" align="center">
+      <br>
+      <h2><b>3D-from-2D Curve-Skeleton Extraction</b></h2>
+      <h3><i>Marco Livesu, Fabio Guggeri, Riccardo Scateni</i></h3><br>
+      <div class="span-18" align="center">
+        <a href="LGS12.zip"><img src="../../img/zip.png" width="90" alt="Data"></a><br>
+        (download our data here)
+        <br>
+        <br>
+        <hr>
+      </div>
+      <br>
+      <div class="span-18" align="justify">
+      <font size="4">
+        During the first part of my PhD I focused on the problem of computing
+        <b>curve-skeletons</b> of 3D shapes. This is a well known problem in computer
+        graphics and many algorithms have been proposed in literature in recent years.
+        <br>
+        <br>
+        We observed that most of these algorithms are <b>tightly coupled with the
+        discretization</b> of the shape, both in terms of what type of primitives are
+        used to represent its surface (triangles, points, voxels, implicit functions...)
+        and in terms of resolution. Consequently, two objects that the human brain may
+        perceive as almost identical, like the two hands shown in the figure below, are
+        usually seen as two completely different entities by skeletonization algorithms
+        and, thus, may produce <b>very different</b> skeletons
+        <br>
+        <div class="span-18" align="center"> <img src="1.png" width="600"></div>
+        <br><br>
+        The intuition behind our work is twofold: on the one side we observed that
+        whatever the discretization of a shape is, its <b>visual appearance</b> will be
+        <b>consistent</b> with the object being represented. For example the two hands
+        above will produce very similar silhouettes, if observed from the same point of view
+        <br>
+        <div class="span-18" align="center"> <img src="2.png" width="600"></div>
+        <br><br>
+        On the other hand, we noticed that in absence of occlusion there is quite
+        an interesting <b>relation</b> between the <b>curve-skeleton</b> of a 3D shape (left)
+        and the <b>medial axis</b> of its silhouette (right). In fact, the curve-skeleton
+        roughly projects over the medial axis!
+        <br>
+        <br>
+        <div class="span-18" align="center"> <img src="3.png" width="400"></div>
+        <br><br>
+        We therefore implemented a set of algorithms that exploit this relation
+        and are able to extract the curve-skeleton of a 3D shape just by analysing
+        a small number of its silhouettes as observed from different points of view.
+        <br>
+        <br>
+        The main advantages of this approach are:
+        <br><br>
+        <ul>
+          <li> <b>independence from the discretization</b> - we can deal with triangle meshes,
+               quad meshes, polygon meshes, polygon soups, implicit surfaces, voxel-based
+               shapes an more. As long as there exist a way to take a snapshot of a shape
+               and detect its silhouette, we are good</li><br>
+          <li> <b>independence from the resolution</b> - the number of primitives used to describe
+               a shape is meaningless as long as the visual appearance of the shape is preserved</li><br>
+          <li> <b>highly resistent</b> to noise, missing parts, holes, degenerate primitives and
+               so forth - the silhouette space is much more robust than the geometric space
+               in which shapes are embedded. This naturally makes our algorithms extremely robust</li>
+        </ul>
+        <br>
+        <hr>
+        <br>
+        Here are some videos that date back to 2010, when I was still a master student
+        and had just started to look into this topic
+        <br>
+        <br>
+        <center>
+        <iframe width="220" height="124" src="https://www.youtube.com/embed/YdHAWK08Qw4" frameborder="0" allowfullscreen></iframe>
+        <iframe width="220" height="124" src="https://www.youtube.com/embed/EATPeYUn29M" frameborder="0" allowfullscreen></iframe>
+        <iframe width="220" height="124" src="https://www.youtube.com/embed/-xJPLO4-5b8" frameborder="0" allowfullscreen></iframe>
+        </center>
+        <br>
+        <br>
+        <hr>
+        <br>
+        The results of our research are summarized in three scientific papers and a PhD thesis:
+        <br><br>
+        <ul>
+          <li> <b>Reconstructing the Curve-Skeleton of 3D Shapes Using the Visual Hull</b><br>
+               Marco Livesu, Fabio Guggeri, Riccardo Scateni<br>
+               <i>IEEE Transactions on Visualization and Computer Graphics (TVCG, 2012)</i><br>
+               [ <a href="LGS12.pdf">PDF</a>,
+               <a href="LGS12.ppt">PPT</a>,
+               <a href="LGS12.txt">BibTex</a> ]
+               </li><br>
+          <li> <b>Practical Medial Axis Filtering for Occlusion-Aware Contours</b><br>
+               Marco Livesu, Riccardo Scateni<br>
+               <i>STAG - Smart Tools and Apps for Graphics 2015 (Verona, Italy)</i><br>
+               [ <a href="../LS15/LS15.pdf">PDF</a>,
+               <a href="../LS15/LS15.pptx">PPT</a>,
+               <a href="../LS15/LS15.txt">BibTex</a> ]
+               </li><br>
+          <li> <b>Extracting Curve-Skeletons from Digital Shapes Using Occluding Contours</b><br>
+               Marco Livesu, Riccardo Scateni<br>
+               <i>The Visual Computer (CGI 2013, Hannover, Germany)</i><br>
+               [ <a href="../LS13a/LS13a.pdf">PDF</a>,
+               <a href="../LS13a/LS13a.pptx">PPT</a>,
+               <a href="../LS13a/LS13a.txt">BibTex</a> ]
+               </li><br>
+          <li> <b>Understanding The Structure of 3D Shapes:Poycubes and Curve-Skeletons</b><br>
+               Marco Livesu<br>
+               <i>PhD Thesis (University of Cagliari, 2014, Italy)</i><br>
+               [ <a href="../Liv14_Phd/Liv14_Phd.pdf">PDF</a>,
+               <a href="../Liv14_Phd/Liv14_Phd.pptx">PPT</a>,
+               <a href="../Liv14_Phd/Liv14_Phd.txt">BibTex</a> ]
+               </li><br>
+        </ul>
+    </font>
+    </div>
+  </div>
+  <hr>
+  <br>
+  <br>
+</body></html>

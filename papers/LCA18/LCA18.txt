@@ -1,0 +1,9 @@
+@inproceedings{LCA18,
+  author    = {Livesu, Marco and Cabiddu, Daniela and Attene, Marco},
+  booktitle = {Smart Tools and Applications in Graphics (STAG)},
+  title     = {{Slice2Mesh: meshing sliced data for the simulation of AM Processes}},
+  year      = {2018},
+  publisher = {The Eurographics Association},
+  ISBN      = {978-3-03868-075-8},
+  ISSN      = {2617-4855},
+  DOI       = {10.2312/stag.20181294}}

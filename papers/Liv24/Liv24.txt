@@ -1,0 +1,8 @@
+@article{Liv24,
+  author    = {Livesu, Marco},
+  title     = {Advancing Front Surface Mapping},
+  journal   = {Computer Graphics Forum},
+  volume    = {43},
+  number    = {2},
+  year      = {2024},
+  doi       = {10.1111/cgf.15026}}

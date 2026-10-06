@@ -1,0 +1,113 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Axis-Aligned Height-Field Block Decomposition of 3D Shapes</title>
+    <link rel="stylesheet" href="../../screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="../../print.css" type="text/css" media="print">
+    <style>
+        body{
+            font-family: Helvetica, Arial;
+            font-size: 13px;
+        }
+        body.container{
+            width: 800px;
+        }
+    </style>
+</head>
+
+<body class="container">
+    <div class="span-26" align="center">
+      <br>
+      <h2><b>Axis-Aligned Height-Field Block Decomposition of 3D Shapes</b></h2>
+      <h4><a href="http://vcg.isti.cnr.it/~muntoni/">Alessandro Muntoni</a>, <a href="http://pers.ge.imati.cnr.it/livesu/">Marco Livesu</a>, <a href="http://people.unica.it/riccardoscateni/">Riccardo Scateni</a>, <a href="http://www.cs.ubc.ca/%7Esheffa/">Alla Sheffer</a>, <a href="https://cims.nyu.edu/gcl/daniele.html">Daniele Panozzo</a></h4>
+      <h4><i>ACM Transactions on Graphics (TOG), 2018</i></h4>
+      <br>
+      <div class="span-26" align="center">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/swY5zwtMnZ4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+      <br>
+      <br>
+      <h4><b>ABSTRACT</b></h4>
+      <div class="span-20" align="justify">
+        We propose a novel algorithm for decomposing general 3D geometries into a small set of
+        overlap-free height-field blocks, volumes enclosed by a flat base and a height-field
+        surface defined with respect to this base. This decomposition is useful for fabrication
+        methodologies such as 3-axis CNC milling, where a single milling pass can only carve a
+        single height-field surface defined with respect to the machine tray, but can also benefit
+        other fabricationsettings. Computingourdesireddecompositionrequiressolving a highly
+        constrained discrete optimization problem, variants of which are known to be NP-hard.
+        We effectively compute a high-quality decomposition by using a two-step process that
+        leverages the unique characteristics of our setup. Specifically, we notice that if the
+        height-field directions are constrained to the major axes we can always produce a valid
+        decomposition starting from a suitable surface segmentation. Our method first produces a
+        compact set of large, possibly overlapping, height-field blocks that jointly cover the model surface by recasting this discrete constrained optimization problem as an unconstrained optimization of a continuous function, which allows for an efficient solution. We then cast the computation of an overlap-free, final decomposition as an ordering problem on a graph, and solve it via a combination of cycle elimination and topological sorting. The combined algorithm produces a compact set of height-field blocks that jointly describe the input model within a user given tolerance.
+        We demonstrate our method on a range of inputs, and showcase a number of real life models
+        manufactured using our technique.
+        <br>
+        <br>
+      </div>
+
+      <hr>
+      <h4><b>DOWNLOADS</b></h4>
+      <div class="span-20" align="center">
+        <a href="http://pers.ge.imati.cnr.it/livesu/papers/MLSSP18/MLSSP18.pdf"><img src="../../img/pdf.png" width="90" alt="Paper"></a>
+        <a href="https://github.com/muntonialessandro/HeightFieldDecomposition"><img src="../../img/github.png" width="90" alt="Code"></a>
+        <a href="https://github.com/muntonialessandro/HeightFieldDecomposition/tree/master/misc/results"><img src="../../img/github.png" width="90" alt="Data"></a>
+        <br>
+        (paper)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        (code)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        (data)
+        <br>
+        <br>
+      </div>
+
+      <hr>
+      <h4><b>ADDITIONAL VIDEOS</b></h4>
+      <br>
+      <br>
+
+      <h4><b>Milling Max Planck (wood, 3-axis milled)</b></h4>
+      <div class="span-20" align="center">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Mu-gkjd020s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <br>
+      <br>
+      </div>
+
+      <h4><b>Assemblage of Max Planck (wood, 3-axis milled)</b></h4>
+      <div class="span-20" align="center">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/RUVzAY7Hq5k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <br>
+      <br>
+      </div>
+
+      <h4><b>Assemblage of Lion (plastic, 3d printed without supports)</b></h4>
+      <div class="span-20" align="center">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/jze1UG0FlWk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <br>
+      <br>
+      </div>
+
+      <h4><b>Assemblage of Moai statue (wood, 3-axis milled)</b></h4>
+      <div class="span-20" align="center">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/vjCBFB776IE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <br>
+      <br>
+      </div>
+
+      <hr>
+      <h4><b>BibTex</b></h4>
+      <div class="span-20" align="justify">
+        <pre>
+          @article{MLSSP18,
+            author    = {Muntoni, Alessandro and Livesu, Marco and Scateni, Riccardo and Sheffer, Alla and Panozzo, Daniele},
+            title     = {Axis-Aligned Height-Field Block Decomposition of 3D Shapes},
+            journal   = {ACM Transactions on Graphics},
+            year      = {2018},
+            volume    = {37},
+            number    = {5},
+            doi       = {10.1145/3204458}}
+        </pre>
+      </div>
+    </div>
+    <br>
+    <br>
+</body></html>

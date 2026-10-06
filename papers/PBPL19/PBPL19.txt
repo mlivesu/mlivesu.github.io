@@ -1,0 +1,11 @@
+@article{PBPL19,
+  author    = {Prada, Daniele and Bertoluzza, Silvia and Pennacchio, Micol and Livesu, Marco},
+  title     = {FETI-DP preconditioners for the Virtual Element Method on general 2D meshes},
+  journal   = {Lecture Notes in Computational Science and Engineering},
+  volume    = {126},
+  pages     = {157-164},
+  note      = {Numerical Mathematics and Advanced Applications - ENUMATH 2017},
+  pages     = {157-164},
+  year      = {2019},
+  isbn      = {978-3-319-96415-7},
+  doi       = {10.1007/978-3-319-96415-7_12}}

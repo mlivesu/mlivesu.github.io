@@ -1,0 +1,8 @@
+@article{CTLPBS20,
+  author    = {Corda, Fabrizio and Thiery, Jean Marc and Livesu, Marco and Puppo, Enrico and Boubekeur, Tamy and Scateni, Riccardo},
+  title     = {Real-Time Deformation with Coupled Cages and Skeletons},
+  journal   = {Computer Graphics Forum},
+  year      = {2020},
+  volume    = {39},
+  number    = {6},
+  doi = {10.1111/cgf.13900}}

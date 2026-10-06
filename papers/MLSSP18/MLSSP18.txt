@@ -1,0 +1,8 @@
+@article{MLSSP18,
+  author    = {Muntoni, Alessandro and Livesu, Marco and Scateni, Riccardo and Sheffer, Alla and Panozzo, Daniele},
+  title     = {Axis-Aligned Height-Field Block Decomposition of 3D Shapes},
+  journal   = {ACM Transactions on Graphics},
+  year      = {2018},
+  volume    = {37},
+  number    = {5},
+  doi       = {10.1145/3204458}}

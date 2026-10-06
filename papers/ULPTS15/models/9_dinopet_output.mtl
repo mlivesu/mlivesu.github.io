@@ -1,0 +1,2448 @@
+newmtl quad_domain_0
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.780392 0.262745 0.250980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_1
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.427451 0.698039 0.603922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_2
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.815686 0.368627 0.956863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_3
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.450980 0.792157 0.556863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_4
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.850980 0.462745 0.909804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_5
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.486275 0.898039 0.509804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_6
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.886275 0.568627 0.862745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_7
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.521569 0.992157 0.462745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_8
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.909804 0.662745 0.815686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_9
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.556863 0.345098 0.415686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_10
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.945098 0.768627 0.768627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_11
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.580392 0.439216 0.380392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_12
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.980392 0.874510 0.733333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_13
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.615686 0.545098 0.333333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_14
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.250980 0.968627 0.686275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_15
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.650980 0.639216 0.286275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_16
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.286275 0.321569 0.639216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_17
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.686275 0.745098 0.992157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_18
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.321569 0.415686 0.592157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_19
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.709804 0.850980 0.945098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_20
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.356863 0.521569 0.545098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_21
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.745098 0.945098 0.909804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_22
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.380392 0.615686 0.509804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_23
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.780392 0.298039 0.862745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_24
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.415686 0.721569 0.462745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_25
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.803922 0.392157 0.815686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_26
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.450980 0.827451 0.415686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_27
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.839216 0.498039 0.768627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_28
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.486275 0.921569 0.368627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_29
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.874510 0.592157 0.721569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_30
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.509804 0.274510 0.321569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_31
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.909804 0.698039 0.686275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_32
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.545098 0.368627 0.286275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_33
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.933333 0.792157 0.639216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_34
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.580392 0.474510 0.992157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_35
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.968627 0.898039 0.592157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_36
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.603922 0.568627 0.945098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_37
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.250980 0.250980 0.545098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_38
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.639216 0.674510 0.898039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_39
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.286275 0.345098 0.498039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_40
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.674510 0.768627 0.850980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_41
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.309804 0.450980 0.450980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_42
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.709804 0.874510 0.815686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_43
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.345098 0.545098 0.415686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_44
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.733333 0.980392 0.768627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_45
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.380392 0.650980 0.368627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_46
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.768627 0.321569 0.721569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_47
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.403922 0.745098 0.321569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_48
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.803922 0.427451 0.674510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_49
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.439216 0.850980 0.274510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_50
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.827451 0.521569 0.627451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_51
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.474510 0.956863 0.980392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_52
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.862745 0.627451 0.592157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_53
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.509804 0.298039 0.945098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_54
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.898039 0.721569 0.545098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_55
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.533333 0.403922 0.898039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_56
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.933333 0.827451 0.498039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_57
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.568627 0.498039 0.850980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_58
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.956863 0.921569 0.450980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_59
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.603922 0.603922 0.803922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_60
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.992157 0.274510 0.403922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_61
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.627451 0.698039 0.756863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_62
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.274510 0.380392 0.368627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_63
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.662745 0.803922 0.721569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_64
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.309804 0.474510 0.321569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_65
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.698039 0.898039 0.674510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_66
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.333333 0.580392 0.274510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_67
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.733333 0.250980 0.627451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_68
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.368627 0.674510 0.980392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_69
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.756863 0.356863 0.580392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_70
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.403922 0.780392 0.933333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_71
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.792157 0.450980 0.533333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_72
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.427451 0.874510 0.898039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_73
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.827451 0.556863 0.498039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_74
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.462745 0.980392 0.850980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_75
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.862745 0.650980 0.450980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_76
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.498039 0.333333 0.803922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_77
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.886275 0.756863 0.403922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_78
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.533333 0.427451 0.756863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_79
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.921569 0.850980 0.356863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_80
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.556863 0.533333 0.709804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_81
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.956863 0.956863 0.309804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_82
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.592157 0.627451 0.662745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_83
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.980392 0.298039 0.274510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_84
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.627451 0.733333 0.627451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_85
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.262745 0.403922 0.980392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_86
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.662745 0.827451 0.580392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_87
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.298039 0.509804 0.933333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_88
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.686275 0.933333 0.533333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_89
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.333333 0.603922 0.886275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_90
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.721569 0.274510 0.486275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_91
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.356863 0.709804 0.839216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_92
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.756863 0.380392 0.439216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_93
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.392157 0.803922 0.803922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_94
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.780392 0.486275 0.403922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_95
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.427451 0.909804 0.756863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_96
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.815686 0.580392 0.356863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_97
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.462745 0.250980 0.709804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_98
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.850980 0.686275 0.309804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_99
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.486275 0.356863 0.662745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_100
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.886275 0.780392 0.262745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_101
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.521569 0.462745 0.615686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_102
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.909804 0.886275 0.968627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_103
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.556863 0.556863 0.580392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_104
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.945098 0.980392 0.933333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_105
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.580392 0.662745 0.533333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_106
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.980392 0.333333 0.886275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_107
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.615686 0.756863 0.486275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_108
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.262745 0.427451 0.839216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_109
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.650980 0.862745 0.439216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_110
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.286275 0.533333 0.792157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_111
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.686275 0.956863 0.392157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_112
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.321569 0.639216 0.745098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_113
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.709804 0.309804 0.356863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_114
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.356863 0.733333 0.709804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_115
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.745098 0.403922 0.309804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_116
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.380392 0.839216 0.662745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_117
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.780392 0.509804 0.262745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_118
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.415686 0.933333 0.615686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_119
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.815686 0.615686 0.968627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_120
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.450980 0.286275 0.568627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_121
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.839216 0.709804 0.921569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_122
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.486275 0.380392 0.521569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_123
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.874510 0.815686 0.874510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_124
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.509804 0.486275 0.486275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_125
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.909804 0.909804 0.839216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_126
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.545098 0.592157 0.439216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_127
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.933333 0.262745 0.792157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_128
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.580392 0.686275 0.392157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_129
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.968627 0.356863 0.745098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_130
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.615686 0.792157 0.345098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_131
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.250980 0.462745 0.698039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_132
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.639216 0.886275 0.298039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_133
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.286275 0.556863 0.650980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_134
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.674510 0.992157 0.262745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_135
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.309804 0.662745 0.615686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_136
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.709804 0.333333 0.968627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_137
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.345098 0.768627 0.568627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_138
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.733333 0.439216 0.921569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_139
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.380392 0.862745 0.521569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_140
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.768627 0.533333 0.874510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_141
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.415686 0.968627 0.474510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_142
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.803922 0.639216 0.827451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_143
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.439216 0.309804 0.427451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_144
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.839216 0.745098 0.792157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_145
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.474510 0.415686 0.392157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_146
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.862745 0.839216 0.745098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_147
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.509804 0.509804 0.345098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_148
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.898039 0.945098 0.698039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_149
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.533333 0.615686 0.298039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_150
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.933333 0.286275 0.650980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_151
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.568627 0.721569 0.250980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_152
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.968627 0.392157 0.603922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_153
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.603922 0.815686 0.956863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_154
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.992157 0.486275 0.568627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_155
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.639216 0.921569 0.921569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_156
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.274510 0.592157 0.521569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_157
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.662745 0.262745 0.874510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_158
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.309804 0.686275 0.474510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_159
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.698039 0.368627 0.827451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_160
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.333333 0.792157 0.427451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_161
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.733333 0.462745 0.780392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_162
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.368627 0.898039 0.380392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_163
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.768627 0.568627 0.733333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_164
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.403922 0.992157 0.333333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_165
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.792157 0.662745 0.698039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_166
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.439216 0.345098 0.298039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_167
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.827451 0.768627 0.650980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_168
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.462745 0.439216 0.250980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_169
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.862745 0.874510 0.603922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_170
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.498039 0.545098 0.956863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_171
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.886275 0.968627 0.556863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_172
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.533333 0.639216 0.909804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_173
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.921569 0.321569 0.509804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_174
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.568627 0.745098 0.862745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_175
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.956863 0.415686 0.474510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_176
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.592157 0.850980 0.827451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_177
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.992157 0.521569 0.427451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_178
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.627451 0.945098 0.780392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_179
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.262745 0.615686 0.380392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_180
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.662745 0.298039 0.733333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_181
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.298039 0.721569 0.333333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_182
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.686275 0.392157 0.686275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_183
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.333333 0.815686 0.286275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_184
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.721569 0.498039 0.639216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_185
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.368627 0.921569 0.250980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_186
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.756863 0.592157 0.603922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_187
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.392157 0.274510 0.956863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_188
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.792157 0.698039 0.556863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_189
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.427451 0.368627 0.909804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_190
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.815686 0.792157 0.509804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_191
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.462745 0.474510 0.862745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_192
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.850980 0.898039 0.462745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_193
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.486275 0.568627 0.815686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_194
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.886275 0.250980 0.415686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_195
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.521569 0.674510 0.780392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_196
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.921569 0.345098 0.380392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_197
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.556863 0.768627 0.733333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_198
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.945098 0.450980 0.333333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_199
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.592157 0.874510 0.686275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_200
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.980392 0.545098 0.286275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_201
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.615686 0.980392 0.639216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_202
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.262745 0.650980 0.992157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_203
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.650980 0.321569 0.592157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_204
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.286275 0.745098 0.945098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_205
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.686275 0.427451 0.545098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_206
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.321569 0.850980 0.909804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_207
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.721569 0.521569 0.509804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_208
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.356863 0.945098 0.862745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_209
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.745098 0.627451 0.462745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_210
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.392157 0.298039 0.815686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_211
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.780392 0.721569 0.415686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_212
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.415686 0.403922 0.768627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_213
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.815686 0.827451 0.368627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_214
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.450980 0.498039 0.721569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_215
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.839216 0.921569 0.321569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_216
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.486275 0.603922 0.686275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_217
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.874510 0.274510 0.286275
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_218
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.521569 0.698039 0.639216
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_219
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.909804 0.380392 0.992157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_220
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.545098 0.803922 0.592157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_221
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.945098 0.474510 0.945098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_222
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.580392 0.898039 0.545098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_223
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.968627 0.580392 0.898039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_224
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.615686 0.250980 0.498039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_225
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.250980 0.674510 0.850980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_226
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.639216 0.356863 0.462745
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_227
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.286275 0.780392 0.815686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_228
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.674510 0.450980 0.415686
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_229
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.321569 0.874510 0.768627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_230
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.709804 0.556863 0.368627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_231
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.345098 0.980392 0.721569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_232
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.745098 0.650980 0.321569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_233
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.380392 0.321569 0.674510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_234
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.768627 0.756863 0.274510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_235
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.415686 0.427451 0.627451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_236
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.803922 0.850980 0.992157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_237
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.439216 0.533333 0.592157
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_238
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.839216 0.956863 0.945098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_239
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.474510 0.627451 0.545098
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_240
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.874510 0.298039 0.898039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_241
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.509804 0.733333 0.498039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_242
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.898039 0.403922 0.850980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_243
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.545098 0.827451 0.450980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_244
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.933333 0.509804 0.803922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_245
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.568627 0.933333 0.403922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_246
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.968627 0.603922 0.756863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_247
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.603922 0.274510 0.368627
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_248
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.992157 0.709804 0.721569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_249
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.639216 0.380392 0.321569
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_250
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.274510 0.803922 0.674510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_251
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.674510 0.486275 0.274510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_252
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.309804 0.909804 0.627451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_253
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.698039 0.580392 0.980392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_254
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.345098 0.250980 0.580392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_255
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.733333 0.686275 0.933333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_256
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.368627 0.356863 0.533333
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_257
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.768627 0.780392 0.898039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_258
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.403922 0.450980 0.498039
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_259
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.792157 0.886275 0.850980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_260
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.439216 0.556863 0.450980
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_261
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.827451 0.980392 0.803922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_262
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.474510 0.662745 0.403922
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_263
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.862745 0.333333 0.756863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_264
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.498039 0.756863 0.356863
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_265
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.898039 0.427451 0.709804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_266
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.533333 0.862745 0.309804
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_267
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.921569 0.533333 0.674510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_268
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.568627 0.956863 0.274510
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_269
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.956863 0.639216 0.627451
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_270
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.592157 0.309804 0.980392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl quad_domain_271
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.992157 0.733333 0.580392
+Ka 0.2 0.2 0.2
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+

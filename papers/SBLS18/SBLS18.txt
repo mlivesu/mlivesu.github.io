@@ -1,0 +1,10 @@
+@article{SBLS18,
+  author    = {Sorgente, Tommaso and Biasotti, Silvia and Livesu, Marco and Spagnuolo, Michela},
+  title     = {Topology-Driven Shape Chartification},
+  journal   = {Computer-Aided Geometric Design},
+  year      = {2018},
+  volume    = {65},
+  number    = {},
+  issn      = {0167-8396},
+  pages     = {13 - 28},
+  doi       = {https://doi.org/10.1016/j.cagd.2018.07.001}}

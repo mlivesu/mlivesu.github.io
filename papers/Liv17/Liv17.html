@@ -1,0 +1,108 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>A Heat Flow Relaxation Scheme for n Dimensional Discrete Hyper Surfaces</title>
+    <link rel="stylesheet" href="../../screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="../../print.css" type="text/css" media="print">
+    <style>
+        body{
+            font-family: Helvetica, Arial;
+            font-size: 13px;
+        }
+        body.container{
+            width: 800px;
+        }
+    </style>
+</head>
+
+<body class="container">
+    <div class="span-26" align="center">
+      <br>
+      <h2><b>A Heat Flow Relaxation Scheme<br>for <i>n</i> Dimensional Discrete Hyper Surfaces</b></h2>
+      <h4>Marco Livesu</h4>
+      <h4><i>Computers & Graphics, 2018</i> (extended version)</h4>
+      <h4><i>STAG: Smart Tools and Applications in Graphics, 2017</i> (earlier version)</h4>
+      <br>
+      <div class="span-26" align="center"> <img src="Liv17_teaser.png" width="800"> </div>
+      <br>
+      <br>
+      <h4><b>ABSTRACT</b></h4>
+      <div class="span-20" align="justify">
+        We consider the problem of relaxing a discrete (n − 1) dimensional hyper surface
+        defining the boundary between two adjacent n dimensional regions in a discrete
+        segmentation. This problem often occurs in computer graphics and vision, where objects
+        are represented by discrete entities such as pixel/voxel grids or polygonal/polyhedral
+        meshes. A common approach consists in assigning to each element of the domain a value
+        (or label). Elements sharing the same label belong to the same region, whereas elements
+        with different labels belong to different regions. Segmentation boundaries are therefore
+        only intrinsically defined, and amount to the union of the interfaces between adjacent
+        elements having different label, which tend to be geometrically poor and expose a typical
+        jagged behavior. We propose a relaxation scheme that replaces the original boundary with
+        a smoother version of it, defined as the level set of a continuous function. The problem
+        has already been considered in recent years, but current methods are specifically
+        designed to relax curves on discrete 2-manifolds embedded in R^3, and do not clearly scale
+        to multiple discrete representations or to higher dimensions. Our biggest contribution
+        is a smoothing operator that is based only on three canonical differential operators:
+        namely the Laplacian, gradient and divergence. These operators are ubiquitous in applied
+        mathematics, are available for a variety of discretization choices, and exist in any
+        dimension. To the best of the author’s knowledge, this is the first intrinsically
+        dimension-independent method, and can be used to relax curves on 2-manifolds, surfaces
+        in R^3, or even hyper-surfaces in R^n. As such, not only it is useful to refine the
+        boundaries of discrete segmentations, but also for applications like data mining,
+        where clustering in high dimensional spaces often occur, and the refinement of the
+        clusters’ boundaries may be beneficial for classification algorithms.
+        <br>
+        <br>
+      </div>
+
+      <hr>
+      <h4><b>DOWNLOADS</b></h4>
+      <div class="span-20" align="center">
+        <a href="Liv17_extended.pdf"><img src="../../img/pdf.png" width="90" alt="Paper"></a>
+        <a href="Liv17.pdf"><img src="../../img/pdf.png" width="90" alt="Paper"></a>
+        <a href="Liv17.pptx"><img src="../../img/pptx.png" width="90" alt="PowerPoint"></a>
+        <a href="https://github.com/maxicino/HyperSurfaceSmoothing"><img src="../../img/github.png" width="90" alt="Code"></a>
+        <br>
+        <br>
+      </div>
+
+      <hr>
+      <h4><b>INDEPENDENCE FROM THE DISCRETIZATION</b></h4>
+      <br>
+      <div class="span-26" align="center"> <img src="Liv17_surfaces.png" width="700"> </div>
+      <br>
+      <br>
+
+      <hr>
+      <h4><b>HIGHER DIMENSIONS</b></h4>
+      <br>
+      <div class="span-26" align="center"> <img src="Liv17_volumes.png" width="700"> </div>
+      <br>
+
+      <hr>
+      <h4><b>BibTex</b></h4>
+      <div class="span-20" align="justify">
+        <pre>
+          @article{Liv17_extended,
+            author    = {Livesu, Marco},
+            title     = {A Heat Flow Relaxation Scheme for n Dimensional Discrete Hyper Surfaces},
+            journal   = {Computers \& Graphics},
+            year      = {2018},
+            volume    = {71},
+            pages     = {124 - 131},
+            issn      = {0097-8493},
+            doi       = {10.1016/j.cag.2018.01.004}}
+
+          @inproceedings{Liv17,
+            author    = {Livesu, Marco},
+            booktitle = {Smart Tools and Apps for Graphics - Eurographics Italian Chapter Conference},
+            title     = {{Heat Flow Based Relaxation of n Dimensional Discrete Hyper Surfaces}},
+            year      = {2017},
+            publisher = {The Eurographics Association},
+            ISBN      = {978-3-03868-048-2},
+            DOI       = {10.2312/stag.20171222}}
+        </pre>
+      </div>
+    </div>
+    <br>
+    <br>
+</body></html>

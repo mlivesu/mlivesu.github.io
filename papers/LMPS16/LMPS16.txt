@@ -1,0 +1,9 @@
+@article{LMPS16,
+  author    = {Livesu, Marco and Muntoni, Alessandro and Puppo, Enrico and Scateni, Riccardo},
+  title     = {Skeleton-driven Adaptive Hexahedral Meshing of Tubular Shapes},
+  journal   = {Computer Graphics Forum},
+  volume    = {35},
+  number    = {7},
+  pages     = {237--246},
+  year      = {2016},
+  doi       = {10.1111/cgf.13021}}

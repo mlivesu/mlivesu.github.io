@@ -1,0 +1,8 @@
+@article{ABBCLPPPS21,
+  title   = {Benchmarking the geometrical robustness of a Virtual Element Poisson solver},
+  author  = {Attene, Marco and Biasotti, Silvia and Bertoluzza, Silvia and Cabiddu, Daniela and Livesu, Marco and Patan{\`e}, Giuseppe and Pennacchio, Micol and Prada, Daniele and Spagnuolo, Michela},
+  journal = {Mathematics and Computers in Simulation},
+  volume  = {190},
+  pages   = {1392--1414},
+  year    = {2021},
+  DOI     = {10.1016/j.matcom.2021.07.018}}

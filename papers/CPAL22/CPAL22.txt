@@ -1,0 +1,8 @@
+@article{CPAL22,
+  title   = {Interactive and Robust Mesh Booleans},
+  author  = {Cherchi, Gianmarco and Pellacini, Fabio and Attene, Marco and Livesu, Marco},
+  journal = {ACM Transactions on Graphics},
+  volume  = {41}, 
+  number  = {6},  
+  year    = {2022},
+  DOI     = {10.1145/3550454.3555460}}

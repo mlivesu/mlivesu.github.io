@@ -1,0 +1,78 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Polycube Simplification for Coarse Layouts of Surfaces and Volumes</title>
+    <link rel="stylesheet" href="../../screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="../../print.css" type="text/css" media="print">
+    <style>
+        body{
+            font-family: Helvetica, Arial;
+            font-size: 13px;
+        }
+        body.container{
+            width: 800px;
+        }
+    </style>
+</head>
+
+<body class="container">
+    <div class="span-26" align="center">
+      <br>
+      <h2><b>Polycube Simplification for Coarse Layouts<br>of Surfaces and Volumes</b></h2>
+      <h4>Gianmarco Cherchi, Marco Livesu, Riccardo Scateni</h4>
+      <h4><i>Computer Graphics Forum 35(5), 11-20, 2016</i></h4>
+      <br>
+      <div class="span-26" align="center"> <img src="CLS16_teaser.png" width="800"> </div>
+      <br>
+      <br>
+      <h4><b>ABSTRACT</b></h4>
+      <div class="span-20" align="justify">
+        Representing digital objects with structured meshes that embed a coarse block decomposition
+        is a relevant problem in applications like computer animation, physically-based simulation
+        and Computer Aided Design (CAD). One of the key ingredients to produce coarse block structures
+        is to achieve a good alignment between the mesh singularities (i.e., the corners of each block).
+        In this paper we improve on the polycube-based meshing pipeline to produce both surface and
+        volumetric coarse block-structured meshes of general shapes. To this aim we add a new step
+        in the pipeline. Our goal is to optimize the positions of the polycube corners to produce as
+        coarse as possible base complexes. We rely on re-mapping the positions of the corners on an
+        integer grid and then using integer numerical programming to reach the optimal. To the best
+        of our knowledge this is the first attempt to solve the singularity misalignment problem directly
+        in polycube space. Previous methods for polycube generation did not specifically address this
+        issue. Our corner optimization strategy is efficient and requires a negligible extra running
+        time for the meshing pipeline. In the paper we show that our optimized polycubes produce
+        coarser block structured surface and volumetric meshes if compared with previous approaches.
+        They also induce higher quality hexahedral meshes and are better suited for spline fitting
+        because they reduce the number of splines necessary to cover the domain, thus improving both
+        the efficiency and the overall level of smoothness throughout the volume.
+        <br>
+        <br>
+      </div>
+
+      <hr>
+      <h4><b>DOWNLOADS</b></h4>
+      <div class="span-20" align="center">
+        <a href="CLS16.pdf"><img src="../../img/pdf.png" width="90" alt="Paper"></a>
+        <a href="CLS16.zip"><img src="../../img/zip.png" width="90" alt="Data"></a>
+        <br>
+        <br>
+      </div>
+
+      <hr>
+      <h4><b>BibTex</b></h4>
+      <div class="span-20" align="justify">
+        <pre>
+        @article{CLS16,
+        title     = {Polycube Simplification for Coarse Layouts of Surfaces and Volumes},
+        author    = {Cherchi, Gianmarco and Livesu, Marco and Scateni, Riccardo},
+        journal   = {Computer Graphics Forum},
+        volume    = {35},
+        number    = {5},
+        pages     = {11--20},
+        year      = {2016},
+        ISSN      = {1467-8659},
+        DOI       = {10.1111/cgf.12959}}
+        </pre>
+      </div>
+    </div>
+    <br>
+    <br>
+</body></html>
